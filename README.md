@@ -13,6 +13,7 @@
 ・画像付き Embed（任意）
 ・QBCore 完全対応
 
+## インストール方法
 1.このリポジトリをダウンロード、またはクローンします。
 
 2.フォルダ名を emergencytp に変更し、resources フォルダへ配置します。
@@ -41,17 +42,27 @@ To prevent abuse, each use requires a reason to be recorded and sends a notifica
 
 ## Features
 ・Emergency-only teleport functionality
+
 ・Collection and logging of usage reasons
+
 ・Automatic logging via Discord Webhook
+
 ・Detailed notifications including player name
+
 ・Optional image-based Discord embeds
+
 ・Full QBCore compatibility
 
+## How to install
 1.Download or clone this repository.
+
 2.Rename the folder to emergencytp and place it inside your resources directory.
+
 3.Open Config.lua and configure the required settings (such as the Discord Webhook).
+
 4.Add the following line to your server.cfg:
-```ensure emergencytp```
+````ensure emergencytp````
+
 5.Restart the server and verify that the script is working correctly.
 
 This script is released for personal and non-commercial use only.
