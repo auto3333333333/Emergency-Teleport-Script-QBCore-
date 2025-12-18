@@ -25,14 +25,22 @@
 
 5.サーバーを再起動し、正常に動作していることを確認します。
 
-本スクリプトは 個人利用・非商用利用のみ を目的として公開されています。
+## 最後に
+
+本スクリプトは、個人利用および非商用利用のみ を目的として公開されています。
+
 以下の行為を 一切禁止 します。
+
 本スクリプトの 販売・再販売
-有償サービス、パッケージ、サーバー参加特典などへの組み込み
-改変後のスクリプトを含む 金銭の発生する形での配布
-本スクリプトを利用した 寄付・支援・課金の対価としての提供
+
+有償サービス、パッケージ、サーバー参加特典などへの 組み込み
+
+改変後のスクリプトを含む、金銭が発生する形での配布
+
+本スクリプトを利用した、寄付・支援・課金などの対価としての提供
+
 上記に該当する行為が確認された場合、
-事前の連絡なく公開停止要請・利用停止の要求を行う場合があります。
+事前の連絡なく、公開停止の要請または利用停止を求める場合があります。
 
 # OverView en English
 This script provides an Emergency Teleport feature for FiveM servers using the QBCore framework.
@@ -65,11 +73,19 @@ To prevent abuse, each use requires a reason to be recorded and sends a notifica
 
 5.Restart the server and verify that the script is working correctly.
 
+## Final Notes
+
 This script is released for personal and non-commercial use only.
+
 The following actions are strictly prohibited:
+
 Selling or reselling this script
-Including it in any paid service, package, or paid server access
-Distributing modified versions in exchange for money or benefits
-Providing this script as a reward for donations, subscriptions, or payments
+
+Including this script in any paid services, packages, or server access benefits
+
+Distributing this script, including modified versions, in any form that involves monetary transactions
+
+Providing this script as a reward or benefit in exchange for donations, support, or payments
+
 If any of the above actions are confirmed,
-the author reserves the right to request immediate removal or cessation of use without prior notice.
+the author reserves the right to request the immediate removal of the script or termination of its use without prior notice.
